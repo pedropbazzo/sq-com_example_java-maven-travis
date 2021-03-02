@@ -1,4 +1,4 @@
-# Java Maven-based project analyzed on SonarCloud using Travis
+# Java Maven-based project analyzed on SonarCloud using Travis 
 
 [![Build status](https://travis-ci.org/SonarSource/sq-com_example_java-maven-travis.svg?branch=master)](https://travis-ci.org/SonarSource/sq-com_example_java-maven-travis) [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=com.sonarqube.examples%3Ajava-maven-travis-project&metric=alert_status)](https://sonarcloud.io/dashboard/index/com.sonarqube.examples:java-maven-travis-project)
 
